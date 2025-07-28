@@ -1,7 +1,7 @@
 import React from "react";
 import TomCruise from "../assets/TomCruise.png";
 import WillSmith from "../assets/WillSmith.png";
-import EmmaWatson from "../assets/EmmaWatson.png";
+import emmawatson from "../assets/emmawatson.png";
 import cartshopping from "../assets/cartshopping.jpg";
 const team = [
   {
@@ -12,7 +12,7 @@ const team = [
   {
     name: "Emma Watson",
     position: "Managing Director",
-    img: EmmaWatson,
+    img: emmawatson,
   },
   {
     name: "Will Smith",
